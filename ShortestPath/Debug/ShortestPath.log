@@ -1,0 +1,17 @@
+﻿  STL.cpp
+c:\users\sania\source\repos\shortestpath\shortestpath\stl.cpp(6): warning C4305: инициализация: усечение из "double" в "float"
+  main.cpp
+  Graph.cpp
+c:\users\sania\source\repos\shortestpath\shortestpath\graph.cpp(17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\sania\source\repos\shortestpath\shortestpath\graph.cpp(19): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\sania\source\repos\shortestpath\shortestpath\graph.cpp(46): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+c:\users\sania\source\repos\shortestpath\shortestpath\graph.cpp(56): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\sania\source\repos\shortestpath\shortestpath\graph.cpp(58): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\sania\source\repos\shortestpath\shortestpath\graph.cpp(67): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\sania\source\repos\shortestpath\shortestpath\graph.cpp(100): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\sania\source\repos\shortestpath\shortestpath\graph.cpp(102): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\sania\source\repos\shortestpath\shortestpath\graph.cpp(141): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\sania\source\repos\shortestpath\shortestpath\graph.cpp(143): warning C4244: аргумент: преобразование "float" в "const unsigned int", возможна потеря данных
+  Создание кода...
+c:\users\sania\source\repos\shortestpath\shortestpath\graph.cpp(50): warning C4715: PathFinding::getIndex: значение возвращается не при всех путях выполнения
+  ShortestPath.vcxproj -> C:\Users\Sania\source\repos\ShortestPath\Debug\ShortestPath.exe
